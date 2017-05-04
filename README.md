@@ -2,6 +2,9 @@
 
 > A code for tutorial
 
+## Live Preview
+[Demo](https://vuetypeahead.herokuapp.com)
+
 ## Build Setup
 
 ``` bash
