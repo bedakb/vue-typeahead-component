@@ -2,6 +2,8 @@
 
 > A code for tutorial
 
+Tutorial on Scotch.io - https://scotch.io/@bedakb/lets-build-type-ahead-component-with-vuejs-2-and-fetch-api
+
 ## Live Preview
 [Demo](https://vuetypeahead.herokuapp.com)
 
