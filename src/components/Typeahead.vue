@@ -8,7 +8,7 @@
             :placeholder="placeholder"
         >
         <transition-group name="fade" tag="ul" class="Results">
-            <li v-for="item in filtered" :key="item">
+            <li v-for="item, key in filtered" :key="key">
                 <span>
                     <strong>{{ item.title  }}</strong> - <small>{{ item.id  }}</small><br>
                     <small>{{ item.body  }}</small>
